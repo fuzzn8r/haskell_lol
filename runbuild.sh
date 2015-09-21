@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # WARNING -- it is ill-advised to run this script outside of the
 # home directory of this project. You may have some unwanted files
